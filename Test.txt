@@ -1,0 +1,4 @@
+stu_name	course
+Ramu	java
+Sita	Json
+Raghu	Web
